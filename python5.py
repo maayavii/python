@@ -1,0 +1,5 @@
+list=str(['appu','ramu','raju'])
+print('list:',list)
+a=str(input("enter the letter"))
+count=list.count(a)
+print("occurance of a",count)
